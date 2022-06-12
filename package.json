@@ -1,0 +1,28 @@
+{
+  "name": "gulp-parallel",
+  "version": "1.0.0",
+  "description": "learnin gulp parallel execution",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dronovs/gulp-parallel.git"
+  },
+  "keywords": [
+    "gulp",
+    "parallel",
+    "learning"
+  ],
+  "author": "Serhii Dronov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dronovs/gulp-parallel/issues"
+  },
+  "homepage": "https://github.com/dronovs/gulp-parallel#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
